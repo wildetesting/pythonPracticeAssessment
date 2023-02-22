@@ -11,11 +11,7 @@ a suitable advice. '''
 
 age = input("Please enter your age. You must be younger than 16 to use this tool. Your answer:")
 
-# the variable routine_focus will be a string data type
-routine_focus = input("What is your focus? Answer: ")
 
-# the variable routines will be a list of options
-routines = ["eat the frog", "visualise", "work out", "no email", "talk", "books"]
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
